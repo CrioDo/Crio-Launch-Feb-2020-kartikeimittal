@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "749bff17ef6dea77cc1a9a8b5d4064e3",
+    "revision": "f346983f1bf601e349f082982bf5d0f2",
     "url": "/Crio-Launch-Feb-2020-kartikeimittal/index.html"
   },
   {
-    "revision": "46e51ccc38653c615c9b",
+    "revision": "41e1fe281b4f895a80e5",
     "url": "/Crio-Launch-Feb-2020-kartikeimittal/static/css/2.57ddf7ad.chunk.css"
   },
   {
-    "revision": "76573b92eb217bfc3282",
+    "revision": "c5983a7f7bfe162a6dc7",
     "url": "/Crio-Launch-Feb-2020-kartikeimittal/static/css/main.5db1380d.chunk.css"
   },
   {
-    "revision": "46e51ccc38653c615c9b",
-    "url": "/Crio-Launch-Feb-2020-kartikeimittal/static/js/2.7453e6ef.chunk.js"
+    "revision": "41e1fe281b4f895a80e5",
+    "url": "/Crio-Launch-Feb-2020-kartikeimittal/static/js/2.14ec30fb.chunk.js"
   },
   {
     "revision": "d466ab9648f013dea081956fc7c904f3",
-    "url": "/Crio-Launch-Feb-2020-kartikeimittal/static/js/2.7453e6ef.chunk.js.LICENSE.txt"
+    "url": "/Crio-Launch-Feb-2020-kartikeimittal/static/js/2.14ec30fb.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "76573b92eb217bfc3282",
-    "url": "/Crio-Launch-Feb-2020-kartikeimittal/static/js/main.38de0a0d.chunk.js"
+    "revision": "c5983a7f7bfe162a6dc7",
+    "url": "/Crio-Launch-Feb-2020-kartikeimittal/static/js/main.32337f03.chunk.js"
   },
   {
     "revision": "a929da44a17a13ff107d",
